@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "name": "Produto teste",
+      "price": 125.98,
+      "id": 4
+    },
+    {
+      "name": "Veio do Formulário",
+      "price": "36.00",
+      "id": 5
+    },
+    {
+      "name": "Caneta Bic Preta",
+      "price": "1.50",
+      "id": 6
+    },
+    {
+      "name": "Caneta Bic Vermelha",
+      "price": "1.75",
+      "id": 7
+    }
+  ]
+}

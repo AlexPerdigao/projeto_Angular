@@ -7,7 +7,9 @@ Para subir o projeto digite no console "npm start" para o back-end e front-end e
 
 Tela inicial.
 
-![image-20210918170056367](C:\Users\alepe\AppData\Roaming\Typora\typora-user-images\image-20210918170056367.png)
+<div>
+  <img src="https://github.com/AlexPerdigao/projeto_angular/blob/master/image-20210918170218334.png" alt="AlexPerdigao"/> 
+ </div>
 
 Tabela produtos.
 

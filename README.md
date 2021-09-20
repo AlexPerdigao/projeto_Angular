@@ -8,16 +8,19 @@ Para subir o projeto digite no console "npm start" para o back-end e front-end e
 Tela inicial.
 
 <div>
-  <img src="https://github.com/AlexPerdigao/projeto_angular/blob/master/image-20210918170218334.png" alt="AlexPerdigao"/> 
+  <img src="https://github.com/AlexPerdigao/projeto_angular/blob/master/image-20210918170056367.png" alt="AlexPerdigao"/> 
  </div>
 
 Tabela produtos.
 
-![image-20210918170135788](C:\Users\alepe\AppData\Roaming\Typora\typora-user-images\image-20210918170135788.png)
+<div>
+  <img src="https://github.com/AlexPerdigao/projeto_angular/blob/master/image-20210918170135788.png" alt="AlexPerdigao"/> 
+ </div>
 
 Para inserir um novo produto, clique em novo produto.
 
-![image-20210918170218334](C:\Users\alepe\AppData\Roaming\Typora\typora-user-images\image-20210918170218334.png)
+<div>
+  <img src="https://github.com/AlexPerdigao/projeto_angular/blob/master/image-20210918170218334.png" alt="AlexPerdigao"/> 
+ </div>
 
 Insira nome, e preço. Após salvar, seu produto estará na primeira página. Contando com ações para editar e deletar.
-
